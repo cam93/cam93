@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cam93
-- 👀 I’m interested in: Becoming a Software engineer
-- 🌱 I’m currently learning: Python
+- 👋 Hi, I’m Cameron
+- 👀 I’m interested in: Data Science
+- 🌱 I’m currently learning: On Dataquest.io
 - 📫 How to reach me: martindale93@outlook.com 
 
 <!---
