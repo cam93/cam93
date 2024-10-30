@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cameron
-- 👀 I’m interested in: Data Science
-- 🌱 I’m currently learning: On Dataquest.io
+- 👀 I’m interested in: Data Science/ML
+- 🌱 I’m currently pursing my Master's Degree
 - 📫 How to reach me: martindale93@outlook.com 
 
 <!---
